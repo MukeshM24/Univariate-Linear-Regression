@@ -45,13 +45,15 @@ plt.show()
 ```
 ## Output
 </br>
-<img width="517" height="582" alt="image" src="https://github.com/user-attachments/assets/d637c201-ebe3-4aee-924d-98455f4585f1" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/97dfa81a-78cd-4160-a3a4-b0c49cac34ab" />
+
 
 </br>
-<img width="793" height="637" alt="image" src="https://github.com/user-attachments/assets/4ea593a4-f4dc-4d8e-9fe8-e00859c62f74" />
+<img width="548" height="410" alt="image" src="https://github.com/user-attachments/assets/53b176a8-a42d-4012-813a-2994923bbebf" />
+
 
 </br>
-<img width="727" height="558" alt="image" src="https://github.com/user-attachments/assets/da22582e-96de-4c9c-8398-a8554fcc79cc" />
+
 
 </br>
 
